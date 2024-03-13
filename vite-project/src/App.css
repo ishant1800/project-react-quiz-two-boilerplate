@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #473a8d;
+  background-color: #42358f;
 }
 
 #rect {
@@ -17,7 +17,7 @@ body {
 
 #ques {
   height: 350px;
-  background-color: white;
+  background-color: rgb(240, 231, 231);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -86,7 +86,7 @@ body {
 }
 
 #previous {
-  background-color: #3e7eaa;
+  background-color: #3f79a0;
   padding: 10px 18px;
   margin: 8px;
   border: none;
@@ -95,7 +95,7 @@ body {
 }
 
 #next {
-  background-color: #008001;
+  background-color: #029a02;
   padding: 10px 18px;
   margin: 8px;
   border: none;
@@ -104,7 +104,7 @@ body {
 }
 
 #quit {
-  background-color: #ff0000;
+  background-color: #e90909;
   padding: 10px 18px;
   margin: 8px;
   border: none;
